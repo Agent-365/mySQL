@@ -1,0 +1,3 @@
+--select cabinet.FName, cabinet.LName, city.Name from cabinet inner join city on cabinet.lname = city.name;
+
+--select admin_pr_vp.vname, president.pname from president inner join admin_pr_vp on president.PName = admin_pr_vp.VName;

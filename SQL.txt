@@ -1,0 +1,303 @@
+INSERT INTO album (id, title, artist, label, released) VALUES (1,'Culture','Migos','Quality Control Music',2017-01-27);
+INSERT INTO album (id, title, artist, label, released) VALUES (2,'These Things Happen','G-Eazy','RCA',2014-06-23);
+INSERT INTO album (id, title, artist, label, released) VALUES (3,'When Its Dark Out','G-Eazy','RCA','2015-12-04');
+INSERT INTO album (id, title, artist, label, released) VALUES (4,'Everybody','Logic','Def Jam Recordings','2017-05-05');
+INSERT INTO album (id, title, artist, label, released) VALUES (5,'Under Pressure','Logic','Def Jam Recordings','2014-10-21');
+INSERT INTO album (id, title, artist, label, released) VALUES (6,'2014 Forest Hills Drive','J. Cole','J. Cole','2014-12-09');
+INSERT INTO album (id, title, artist, label, released) VALUES (7,'Birds in the Trap Sing McKnight','Travis Scott','Grand Hustle Records','2016-09-02');
+INSERT INTO album (id, title, artist, label, released) VALUES (8,'Rodeo','Travis Scott','Sony Records','2015-09-04');
+INSERT INTO album (id, title, artist, label, released) VALUES (9,'Teenage Emotions','Lil Yachty','Captiol Records','2017-05-26');
+INSERT INTO album (id, title, artist, label, released) VALUES (10,'Summer Songs 2','Lil Yachty','Capitol Records','2016-07-20');
+INSERT INTO album (id, title, artist, label, released) VALUES (11,'Slime Season 3','Young Thug','Atlanta Records','2016-03-25');
+INSERT INTO album (id, title, artist, label, released) VALUES (12,'The Return of East Atlanta Santa','Gucci Mane','Atlanta Records','2016-12-16');
+INSERT INTO album (id, title, artist, label, released) VALUES (13,'All American','Hoodie Allen','RJF','2012-04-10');
+INSERT INTO album (id, title, artist, label, released) VALUES (14,'Issa Album','21 Savage','Slaughter Gang','2017-07-07');
+INSERT INTO album (id, title, artist, label, released) VALUES (15,'Beautiful Loser','KYLE','KYLE','2013-08-05');
+INSERT INTO album (id, title, artist, label, released) VALUES (16,'Smyle','KYLE','KYLE','2015-10-02');
+INSERT INTO album (id, title, artist, label, released) VALUES (17,'Lil Uzi Vert vs. the World','Lil Uzi','Generation Now','2016-04-15');
+INSERT INTO album (id, title, artist, label, released) VALUES (18,'American Teen','Khalid','RCA','2017-03-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (19,'Metallica','Metallica','Elektra','1991-08-12');
+INSERT INTO album (id, title, artist, label, released) VALUES (20,'Three Days Grace','Three Days Grace','Jive Records','2003-07-22');
+INSERT INTO album (id, title, artist, label, released) VALUES (21,'Red Rose Speedway','Paul McCartney','Apple','1973-04-30');
+INSERT INTO album (id, title, artist, label, released) VALUES (22,'Wings Greatest',' Paul McCartney','Parlophone','1978-11-22');
+INSERT INTO album (id, title, artist, label, released) VALUES (23,'band On The Run','Paul McCartney','Apple','1973-12-05');
+INSERT INTO album (id, title, artist, label, released) VALUES (24,'Made In heaven','Queen','Parlophone','1995-11-06');
+INSERT INTO album (id, title, artist, label, released) VALUES (25,'Innuendo','Queen','Elektra','1991-02-04');
+INSERT INTO album (id, title, artist, label, released) VALUES (26,'the Miracle','Queen','Elektra','1989-05-22');
+INSERT INTO album (id, title, artist, label, released) VALUES (27,'Live Magic','Queen','Elektra','1986-12-01');
+INSERT INTO album (id, title, artist, label, released) VALUES (28,'A Kind Of magic','Queen','Elektra','1983-06-03');INSERT INTO album (id, title, artist, label, released) VALUES (12,'Rubber Soul','The Beatles','Parlophone','1965-12-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (29,'The Works','Queen','Elektra','1984-02-27');
+INSERT INTO album (id, title, artist, label, released) VALUES (30,'Hot Space','Queen',' Elektra','1982-05-21');
+INSERT INTO album (id, title, artist, label, released) VALUES (31,'Flash Gordon','Queen','Elektra','1980-12-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (32,'The Game','Queen','Elektra','1980-6-30');INSERT INTO album (id, title, artist, label, released) VALUES (12,'Rubber Soul','The Beatles','Parlophone','1965-12-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (33,'Live Killers','Queen','Elektra','1979-06-22');
+INSERT INTO album (id, title, artist, label, released) VALUES (34,'Jazz','Queen','Elektra','1978-11-10');
+INSERT INTO album (id, title, artist, label, released) VALUES (35,'News Of The World','Queen','Elektra','1977-10-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (36,'A Day At The Races','Queen','Elektra','1976-12-10');INSERT INTO album (id, title, artist, label, released) VALUES (12,'Rubber Soul','The Beatles','Parlophone','1965-12-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (37,'A Night At The Opera','Queen','Elektra','1975-11-21');
+INSERT INTO album (id, title, artist, label, released) VALUES (38,'Sheer Heart Attack','Queen','Elektra','1974-11-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (39,'Queen II','Queen','Elektra','1974-03-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (40,'Queen','Queen','Elektra',' 1974-03-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (63,'The Continuous Eviliution of Lifes ?s','Twiztid','Majik Ninja Entertainment','2017-01-27');
+INSERT INTO album (id, title, artist, label, released) VALUES (64,'The Darkness','Twiztid','Majik Ninja Entertainment','2015-01-27');
+INSERT INTO album (id, title, artist, label, released) VALUES (65,'Candy Coated Fury','Reel Big Fish','Rock Ridge','2012-07-31');
+INSERT INTO album (id, title, artist, label, released) VALUES (66,'Cheer Up','Reel Big Fish','Mojo, Jive','2002-06-25');
+INSERT INTO album (id, title, artist, label, released) VALUES (67,'The Mighty Death Pop','Insane Clown Posse','Psychopathic Records','2012-08-14');
+INSERT INTO album (id, title, artist, label, released) VALUES (68,'Frizzle Fry','Primus','Caroline','1990-02-07');
+INSERT INTO album (id, title, artist, label, released) VALUES (69,'Sailing the Seas of Cheese','Primus','Interscope','1991-05-14');
+INSERT INTO album (id, title, artist, label, released) VALUES (70,'Hate','Thy Art Is Murder','Halfcut','2012-10-19');
+INSERT INTO album (id, title, artist, label, released) VALUES (71,'The Black Crown','Suicide Silence','Century Media, Nuclear Blast','2011-07-12');
+INSERT INTO album (id, title, artist, label, released) VALUES (72,'No Time to Bleed','Suicide Silence','Century Media','2009-06-30');
+INSERT INTO album (id, title, artist, label, released) VALUES (73,'Toxicity','System of a Down','Columbia','2001-09-4');
+INSERT INTO album (id, title, artist, label, released) VALUES (74,'Steal This Album!','System of a Down','American Recordings, Columbia, SME Records','1991-05-14');
+INSERT INTO album (id, title, artist, label, released) VALUES (75,'Magma','Gojira','Roadrunner','2016-06-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (76,'The Link','Gojira','Listenable','2003-04-18');
+INSERT INTO album (id, title, artist, label, released) VALUES (77,'Iowa','Slipknot','Roadrunner','2001-08-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (78,'Vol. 3:(The Subliminal Verses)','Slipknot','Roadrunner','2004-05-25');
+INSERT INTO album (id, title, artist, label, released) VALUES (79,'Reincarnate','Motionless in White','Roadrunner','2014-09-16');
+INSERT INTO album (id, title, artist, label, released) VALUES (80,'Graveyard Shift','Motionless in White','Roadrunner','20170-05-05');
+INSERT INTO album (id, title, artist, label, released) VALUES (81,'Iconoclast','Symphony X','Nuclear Blast','2011-06-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (82,'Paradise Lost','Symphony X','Inside Out','2007-06-26');
+INSERT INTO album (id, title, artist, label, released) VALUES (253,'Key','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (254,'Door','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (255,'Subwoofer Lullaby','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (256,'Death','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (257,'Living Mice','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (258,'Moog City','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (259,'Haggstrom','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (260,'Minecraft','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (261,'Oxygène','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (262,'Équinoxe','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (263,'Mice on Venus','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (264,'Dry Hands','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (265,'Wet Hands','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (266,'Clark','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (267,'Chris','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (268,'Thirteen','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (269,'Excuse','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (270,'Sweden','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (271,'Cat','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (272,'Dog','C418','Minecraft- Volume Alpha','2011-04-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (232,'A Fever You Cant Sweat Out', 'Panic! at the Disco', 'Decaydance/Fueled by Ramen','2005-09-27');
+INSERT INTO album (id, title, artist, label, released) VALUES (233,'Pretty. Odd.','Panic! at the Disco','Decaydance/Fueled by Ramen','2008-03-21');
+INSERT INTO album (id, title, artist, label, released) VALUES (234,'Vices & Virtues','Panic! at the Disco','Decaydance/Fueled by Ramen','2011-03-18');
+INSERT INTO album (id, title, artist, label, released) VALUES (235,'Too Wierd to Live, Too Rare to Die!', 'Panic! at the Disco', 'Decaydance/Fueled by Ramen','2013-10-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (236,'Death of a Bachelor','Panic! at the Disco', 'Decaydance/Fueled by Ramen','2016-01-15');
+INSERT INTO album (id, title, artist, label, released) VALUES (237,'Twenty One Pilots','Twenty One Pilots','Self-released','2009-12-29');
+INSERT INTO album (id, title, artist, label, released) VALUES (238,'Regional at Best','Twenty One Pilots','Self-Released','2011-06-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (239,'Vessel','Twenty One Pilots','Fueled by Ramen','2013-01-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (240,'Blurryface','Twenty One Pilots','Fueled by Ramen','2015-05-15');
+INSERT INTO album (id, title, artist, label, released) VALUES (241,'I Brought You My Bullets, You Brought Me Your Love','My Chemical Romance','Eyeball','2002-07-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (242,'Three Cheers for Sweet Revenge','My Chemical Romance','Reprise','2004-06-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (243,'The Black Parade','My Chemical Romance','Reprise','2006-10-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (244,'Danger Days: The True Lives of the Fabulous Killjoys','My Chemical Romance','Reprise','2010-11-19');
+INSERT INTO album (id, title, artist, label, released) VALUES (245,'Life on the Murder Scene','My Chemical Romance','Reprise','2006-03-21');
+INSERT INTO album (id, title, artist, label, released) VALUES (246,'The Black Parade is Dead','My Chemical Romance','Reprise','2008-06-30');
+INSERT INTO album (id, title, artist, label, released) VALUES (247,'Conventional Weapons','My Chemical Romance','Reprise','2013-02-05');
+INSERT INTO album (id, title, artist, label, released) VALUES (248,'May Death Never Stop You','My Chemical Romance','Reprise','2014-03-25');
+INSERT INTO album (id, title, artist, label, released) VALUES (249,'The Black Parade/Living with Ghosts','My Chemical Romance','Reprise','2016-09-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (250,'Night Visions','Imagine Dragons','Interscope/KIDinaKORNER','2012-09-04');
+INSERT INTO album (id, title, artist, label, released) VALUES (251,'Smoke+Mirrors','Imagine Dragons','Interscope/KIDinaKORNER','2015-02-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (42,'Gorillaz','Gorillaz','Parlophone','2001-03-26');
+INSERT INTO album (id, title, artist, label, released) VALUES (43,'The Fall','Gorillaz','Parlophone','2010-12-10');
+INSERT INTO album (id, title, artist, label, released) VALUES (44,'Plastic Beach','Gorillaz','Parlophone','2010-03-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (45,'Demon Days','Gorillaz','Parlophone','2005-05-11');
+INSERT INTO album (id, title, artist, label, released) VALUES (46,'Humanz','Gorillaz','Parlophone','2017-04-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (47,'Silver Side Up','Nickleback','Roadrunner','2001-09-11');
+INSERT INTO album (id, title, artist, label, released) VALUES (48,'All the Right Reasons','Nickleback','Roadrunner','2005-09-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (49,'Mount Ninji and da Nice Guy Kid','Die Antwoord','God','2016-09-16');
+INSERT INTO album (id, title, artist, label, released) VALUES (50,'The Eminem Show','Eminem','Aftermath','2002-05-26');
+INSERT INTO album (id, title, artist, label, released) VALUES (51,'The Marshall Mathers LP 2','Eminem','Aftermath','2011-05-13');
+INSERT INTO album (id, title, artist, label, released) VALUES (52,'Encore','Eminem','Aftermath','2004-11-12');
+INSERT INTO album (id, title, artist, label, released) VALUES (53,'Texoma shore','Blake Shelton','','2017-04-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (54,'Live in no shoes nation','Kenny chesney','roadrunner','2001-09-11');
+INSERT INTO album (id, title, artist, label, released) VALUES (55,'Unapologetically','kelsea Ballerini','roadrunner','2005-09-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (56,'sweet southern sugar','Kid rock','roadrunner','2010-12-10');
+INSERT INTO album (id, title, artist, label, released) VALUES (57,'from a room','chris stapleton','roadrunner','2010-03-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (58,'kane brown','kane brown','roadrunner','2005-05-11');
+INSERT INTO album (id, title, artist, label, released) VALUES (59,'lee brice','lee brice','Capitol','2017-04-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (60,'traveller','traveller','Capitol','2001-09-11');
+INSERT INTO album (id, title, artist, label, released) VALUES (61,'life changes','life changes','Capitol','2005-09-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (61,'this ones for you','luke combs','Capitol','2005-09-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (106,'Astro Lounge','Smash Mouth','Interscope','1999-06-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (107,'Fush Yu Mang','Smash Mouth','Interscope','1997-07-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (108,'Get the Picture?','Smash Mouth','Universal, Interscope','2003-08-05');
+INSERT INTO album (id, title, artist, label, released) VALUES (109,'The Gift of Rock','Smash Mouth','Beautiful Bomb','2005-12-01');
+INSERT INTO album (id, title, artist, label, released) VALUES (110,'Summer Girl','Smash Mouth','Beautiful Bomb','2006-09-19');
+INSERT INTO album (id, title, artist, label, released) VALUES (111,'Magic','Smash Mouth','429','2012-09-04');
+INSERT INTO album (id, title, artist, label, released) VALUES (112,'East Bay Sessions','Smash Mouth','Red Clay','1999-11-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (113,'All Star Smash Hits','Smash Mouth','Universal','2005-08-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (114,'ICON','Smash Mouth','Interscope/Universal','2014-09-09');
+INSERT INTO album (id, title, artist, label, released) VALUES (115,'The Very Best of Smash Mouth','Smash Mouth','BMG/Sony Music','2016-05-27');
+INSERT INTO album (id, title, artist, label, released) VALUES (116,'Torches','Foster The People','Startime/Colombia','2011-05-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (117,'Cheshire Cat','Blink-182','Cargo/Grilled Cheese','1995-02-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (118,'Dude Ranch','Blink-182','MCA/Cargo','1997-06-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (119,'Enema of the State','Blink-182','MCA','1999-06-01');
+INSERT INTO album (id, title, artist, label, released) VALUES (120,'Take Off Your Pants and Jacket','Blink-182','MCA','2001-06-12');
+INSERT INTO album (id, title, artist, label, released) VALUES (121,'Neighborhoods','Blink-182','DGC','2011-09-27');
+INSERT INTO album (id, title, artist, label, released) VALUES (122,'California','Blink-182','BMG','2016-07-01');
+INSERT INTO album (id, title, artist, label, released) VALUES (123,'Robbers and Cowards','Cold War Kids','Downtown/V2','2006-10-10');
+INSERT INTO album (id, title, artist, label, released) VALUES (124,'Loyalty to Loyalty','Cold War Kids','Downtown/V2','2008-09-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (125,'Mine is Yours','Cold War Kids','Downtown/V2','2011-01-25');
+INSERT INTO album (id, title, artist, label, released) VALUES (127,'collide','skillet','Lava Records','2004-05-25');
+INSERT INTO album (id, title, artist, label, released) VALUES (128,'Nightmare','Avenged Sevenfold','Bros. Records','2010-07-27');
+INSERT INTO album (id, title, artist, label, released) VALUES (129,'Follow the Leader','Korn','immortal/epic','2002-03-15');
+INSERT INTO album (id, title, artist, label, released) VALUES (130,'Swan Songs','Hollywood Undead','Polydor Records','2008-09-02');
+INSERT INTO album (id, title, artist, label, released) VALUES (131,'Up','Pop Evil','eOne Music','2015-08-21');
+INSERT INTO album (id, title, artist, label, released) VALUES (132,'Got Your Six','Five Finger Death Punch','Prospect Park','2015-09-04');
+INSERT INTO album (id, title, artist, label, released) VALUES (133,'The Last Stand','Sabaton','Abyss Studios','2016-08-19');
+INSERT INTO album (id, title, artist, label, released) VALUES (134,'The Sickness','Disturbed','giant Records (warner)','2000-03-07');
+INSERT INTO album (id, title, artist, label, released) VALUES (135,'American idiot','Green Day','Reprise Records','2004-09-20');
+INSERT INTO album (id, title, artist, label, released) VALUES (136,'Master of Puppets','Metallica','Sweet Silent Studios','1986-03-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (137,'Duality',' Set it Off','Equal Vision Records','2014-01-02');
+INSERT INTO album (id, title, artist, label, released) VALUES (138,'Avenged Sevenfold','Avenged Sevenfold','Sunset Sound Records','2007-10-30')
+INSERT INTO album (id, title, artist, label, released) VALUES (139,'City of Evil','Avenged Sevenfold','Warner Bros','2005-06-07')
+INSERT INTO album (id, title, artist, label, released) VALUES (140,'Minutes to Midnight','Linkin Park','Machine Shop','2007-05-14')
+INSERT INTO album (id, title, artist, label, released) VALUES (141,'Fighting with Tools','Flobots','Universal Republic','2007-10-16')
+INSERT INTO album (id, title, artist, label, released) VALUES (142,'Hybrid Theory',' Linkin Park','Warner Bros','2000-10-24')
+INSERT INTO album (id, title, artist, label, released) VALUES (143,'The Rising Tied','Fort Minor','Machine Shop','2005-11-22')
+INSERT INTO album (id, title, artist, label, released) VALUES (144,'Day of the Dead','Hollywood Undead','Interscope','2015-03-31')
+INSERT INTO album (id, title, artist, label, released) VALUES (145,'American Tragedy','Hollywood Undead','A&M Octone','2011-04-04
+INSERT INTO album (id, title, artist, label, released) VALUES (146,'I Write Sins not Tragedies','Panic at the Disco','Decaydance','2006-02-27')
+INSERT INTO album (id, title, artist, label, released) VALUES (147,'Infinity on High','Fall Out Boy','Island','2007-02-06')
+INSERT INTO album (id, title, artist, label, released) VALUES (148,'Ring-a-Ding-Ding!','Frank Sinatra','Reprise','1960-12-19');
+INSERT INTO album (id, title, artist, label, released) VALUES (149,'Where Are You?','Frank Sinatra','Capitol','1957-05-01');
+INSERT INTO album (id, title, artist, label, released) VALUES (150,'Illuminate','Shawn Mendes','Island','2016-09-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (151,'Tunnel of Love','Bruce Springsteen','Columbia','1987-010-09');
+INSERT INTO album (id, title, artist, label, released) VALUES (152,'Queen','Queen','EMI',''1973-13-07');
+INSERT INTO album (id, title, artist, label, released) VALUES (153,'The Game','Queen','EMI','1980-30-06');
+INSERT INTO album (id, title, artist, label, released) VALUES (154,'Aftermath','The Rolling Stones','Decca','1966-15-04');
+INSERT INTO album (id, title, artist, label, released) VALUES (155,'News of the World','Queen','EMI','1977-28-10');
+INSERT INTO album (id, title, artist, label, released) VALUES (156,'(Pronounced 'Leh-'nérd 'Skin-'nérd)','Lynyrd Skynyrd','MCA','1973-03-04');
+INSERT INTO album (id, title, artist, label, released) VALUES (157,'The Dark Side of the Moon','Pink Floyd','Harvest','1973-01-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (158,'Led Zeppelin','Led Zeppelin','Atlantic','1969-12-01');
+INSERT INTO album (id, title, artist, label, released) VALUES (159,'The Stranger','Billy Joel','Columbia','1977-29-09');
+INSERT INTO album (id, title, artist, label, released) VALUES (160,'52nd Street','Billy Joel','Columbia','1978-13-10');
+INSERT INTO album (id, title, artist, label, released) VALUES (273,'Swim Team','Dirty Heads','Five Seven Music','2017-10-13');
+INSERT INTO album (id, title, artist, label, released) VALUES (274,'Heaven Upside Down','Marilyn Manson','Loma Vista','2017-10-06');
+INSERT INTO album (id, title, artist, label, released) VALUES (275,'Colors','Beck','capitol records','2017-10-13');
+INSERT INTO album (id, title, artist, label, released) VALUES (276,'Weezer','Blue Album','Geffen','1994-05-10');
+INSERT INTO album (id, title, artist, label, released) VALUES (277,'Licensed To Ill','Beastie Boys','Def Jam','2000-10-24');
+INSERT INTO album (id, title, artist, label, released) VALUES (278,'Hybrid Theory','Linkin Park','Columbia','1986-11-18');
+INSERT INTO album (id, title, artist, label, released) VALUES (279,'Icon','Lynyrd Skynyrd','Geffen','2010-08-31');
+INSERT INTO album (id, title, artist, label, released) VALUES (280,'X','Ed Sheeran','Asylum','2014-06-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (281,'Evolve','Imagine Dragons','Interscope','2017-06-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (282,'The Colour and the Shape','Foo Fighters','RCA','1997-5-20');
+INSERT INTO album (id, title, artist, label, released) VALUES (283,'Dookie','Green Day','Reprise','1994/02/01');
+INSERT INTO album (id, title, artist, label, released) VALUES (284,'Ride the Lightning','Metallica','Blackened','1984-07-27');
+INSERT INTO album (id, title, artist, label, released) VALUES (285,'Purple','Stone Temple Pilots','Atlantic','1994-05-31');
+INSERT INTO album (id, title, artist, label, released) VALUES (286,'Nevermind','Nirvana','Geffen','1991-09-24');
+INSERT INTO album (id, title, artist, label, released) VALUES (287,'Ten','Pearl Jam','Epic','1991-08-27');
+INSERT INTO album (id, title, artist, label, released) VALUES (288,'The Wall','Pink Floyd','Columbia','1979-11-30');
+INSERT INTO album (id, title, artist, label, released) VALUES (289,'Good Morning Revival','Good Charlotte','SMI Records','2007-03-19');
+INSERT INTO album (id, title, artist, label, released) VALUES (290,'DNA','Trapt','Crash Collide','2016-08-19');
+INSERT INTO album (id, title, artist, label, released) VALUES (291,'Awake','Skillet','Atlantic','2009-08-25');
+INSERT INTO album (id, title, artist, label, released) VALUES (292,'One-X','Three Days Grace','Jive','2006-06-13');
+INSERT INTO album (id, title, artist, label, released) VALUES (293,'The Black Parade','My Chemical Romance','Reprise','2006-10-31');
+
+INSERT INTO album (id, title, artist, label, released) VALUES (85, 'Dream Your Life Away', 'Vance Joy', 'Liberation Music', '09-05-14');
+INSERT INTO album (id, title, artist, label, released) VALUES (86, 'Queen Of The Clouds', 'Tove Lo', 'Island', '09-24-14');
+INSERT INTO album (id, title, artist, label, released) VALUES (87, 'Spice', 'The Spice Girls', 'Virgin', '09-19-96');
+INSERT INTO album (id, title, artist, label, released) VALUES (88, 'Connect The Dots', 'MisterWives', 'Photo Finish', '05-19-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (89, 'Cleopatra', 'The Lumineers', 'Dine Alone', '04-08-16');
+INSERT INTO album (id, title, artist, label, released) VALUES (90, 'Born To Die', 'Lana Del Rey', 'Stranger/Interscope/Polydor' '01-27-12');
+INSERT INTO album (id, title, artist, label, released) VALUES (91, 'Rainbow', 'Kesha', 'Kemosabe/RCA', 08-11-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (92, 'After Laughter', 'Paramore', 'Fueled by Ramen', '05-12-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (93, 'Pretty. Odd.', 'Panic! At The Disco', 'Decaydance/Fueled By Ramen', '03-25-08')
+INSERT INTO album (id, title, artist, label, released) VALUES (94, 'Back to Black', 'Amy Winehouse', 'Island', '08-27-06')
+INSERT INTO album (id, title, artist, label, released) VALUES (95, 'AM', 'Artic Monkeys', 'Domino', '09-09-13')
+INSERT INTO album (id, title, artist, label, released) VALUES (96, 'The Stranger', 'Billy Joel', 'Family Productions/Columbia', '09-29-77')
+INSERT INTO album (id, title, artist, label, released) VALUES (97, 'Fire Within', 'Birdy', '14th Floor/Atlantic', '09-16-13')
+INSERT INTO album (id, title, artist, label, released) VALUES (98, 'Fleetwood Mac', 'Fleetwood Mac', 'Reprise', '07-11-75')
+INSERT INTO album (id, title, artist, label, released) VALUES (99, 'Skin', 'Flume', 'Future Classic/Transgressive/Mom + Pop', '05-27-16')
+INSERT INTO album (id, title, artist, label, released) VALUES (100, 'This Side of Paradise', 'Hayley Kiyoko','self-released', '02-03-15')
+INSERT INTO album (id, title, artist, label, released) VALUES (101, 'In Between Dreams', 'Jack Johnson', 'Brushfire Records', '03-01-05')
+INSERT INTO album (id, title, artist, label, released) VALUES (102, 'A piece of me', 'Jacob Whitesides', 'JW Records', '02-14-15')
+INSERT INTO album (id, title, artist, label, released) VALUES (103, 'Wonderland', 'Jasmine Thompson', 'Atlantic Recording Corporation', '05-09-17')
+INSERT INTO album (id, title, artist, label, released) VALUES (104, 'The Click', 'AJR', 'AJR Productions', '06-09-17')
+
+INSERT INTO album (id, title, artist, label, released) VALUES (190,'The Rise and Fall of Ziggy Stardust and the Spiders from Mars ','David Bowie','RCA Records','1972-06-16');
+INSERT INTO album (id, title, artist, label, released) VALUES (191,'Blackstar','David Bowie','Columbia','2016-01-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (192,'Burning from the Inside','Bauhaus','Beggars Banquet','1983-07-01');
+INSERT INTO album (id, title, artist, label, released) VALUES (193,'Unknown Pleasures','Joy Division','Factory Records','1979-06-15');
+INSERT INTO album (id, title, artist, label, released) VALUES (194,'Dial-A-Song: 20 Years of They Might Be Giants','They Might be Giants','Rhino Records','2002-09-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (195,'Louder Than Bombs','The Smiths','Rough Trade','1987-03-30');
+INSERT INTO album (id, title, artist, label, released) VALUES (196,'Disintegration','The Cure','Fiction','1989-05-02');
+INSERT INTO album (id, title, artist, label, released) VALUES (197,'Plans','Death Cab for Cutie','Atlantic','2005-08-30');
+INSERT INTO album (id, title, artist, label, released) VALUES (198,'On Avery Island','Neutral Milk Hotel','Merge','1996-03-26');
+INSERT INTO album (id, title, artist, label, released) VALUES (199,'Codes and Keys','Death Cab for Cutie','Atlantic','2011-05-31');
+INSERT INTO album (id, title, artist, label, released) VALUES (200,'American Idiot','Green Day','Reprise','2003-09-20');
+INSERT INTO album (id, title, artist, label, released) VALUES (201,'...And Justice for All','Metalica','Elektra','1988-08-25');
+INSERT INTO album (id, title, artist, label, released) VALUES (202,'...Out Come the Wolves','Rancid','Epitaph','1995-08-22');
+INSERT INTO album (id, title, artist, label, released) VALUES (203,'Babel','Mumford & Sons','Island','2012-09-21');
+INSERT INTO album (id, title, artist, label, released) VALUES (204,'Self Entitled','NOFX','Fat Wreck Chords','2012-09-11');
+INSERT INTO album (id, title, artist, label, released) VALUES (205,'Evil Empire','Rage Against the Machine','Epic','1996-04-16');
+INSERT INTO album (id, title, artist, label, released) VALUES (206,'Cry Baby','Melanie Martinez','Atlantic','2015-08-14');
+INSERT INTO album (id, title, artist, label, released) VALUES (207,'The Downward Spiral','Nine Inch Nails','Nothing','1994-03-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (208,'Heroes','David Bowie','RCA Records','1977-10-14');
+INSERT INTO album (id, title, artist, label, released) VALUES (209,'We the Kings','We the Kings','S-Curve','2007-10-07');
+INSERT INTO album (id, title, artist, label, released) VALUES (210,'Walk the Moon','Walk the Moon','RCA','2012-06-19');
+
+INSERT INTO album (id, title, artist, label, released) VALUES (1000,'My Way','Frank Sinatra','Reprise','1968-12-30');
+INSERT INTO album (id, title, artist, label, released) VALUES (1001,'The Thrill of It All','Sam Smith','Capitol','2017-11-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (1002,'Desperado','Eagles','Asylum','1973-04-17');
+INSERT INTO album (id, title, artist, label, released) VALUES (1003,'Diamond Rio','Diamond Rio','Arista Nashville','1991-02-11');
+INSERT INTO album (id, title, artist, label, released) VALUES (1004,'Harvest','Neil Young','Reprise','1972-01-00');
+INSERT INTO album (id, title, artist, label, released) VALUES (1005,'Poems, Prayers & Promises','John Denver','RCA Records','1971-08-00');
+INSERT INTO album (id, title, artist, label, released) VALUES (1006,'Cleopatra','The Lumineers','Dualtone, Dine Alone','2016-04-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (1007,'You'll Never Walk Alone','Elvis Presley','RCA Camden','1971-03-22');
+INSERT INTO album (id, title, artist, label, released) VALUES (1008,'Yellow Submarine','The Beatles','Apple','1969-01-13');
+INSERT INTO album (id, title, artist, label, released) VALUES (1009,'Wednesday Morning, 3 A.M.','Simon & Garfunkel','Columbia','1964-10-00');
+INSERT INTO album (id, title, artist, label, released) VALUES (1010,'Bing & Satchmo','Bing Crosby, Louie Armstrong','MGM','1960-10-00');
+INSERT INTO album (id, title, artist, label, released) VALUES (1011,'Divide','Ed Sheeran','Asylum, Atlantic','2017-03-03');
+INSERT INTO album (id, title, artist, label, released) VALUES (1012,'25','Adele','XL, Columbia','2015-11-20');
+INSERT INTO album (id, title, artist, label, released) VALUES (1013,'21','Adele','XL, Columbia','2011-01-24');
+INSERT INTO album (id, title, artist, label, released) VALUES (1014,'19','Adele','XL, Columbia','2008-01-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (1015,'The Big Chill','','Motown','1983-09-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (1016,'News of the World','Queen','EMI','1977-10-28');
+INSERT INTO album (id, title, artist, label, released) VALUES (1017,'Made in Heaven','Queen','Hollywood Records','1995-09-06');
+INSERT INTO album (id, title, artist, label, released) VALUES (1018,'ABC','The Jackson 5','Motown','1970-05-08');
+INSERT INTO album (id, title, artist, label, released) VALUES (1019,'Metallica','Metallica','Elektra','1991-08-12');
+
+insert into album values(14, 'Appetite for Destruction', 'Guns N' Roses', 'Geffen', '1987-07-21');
+insert into album values(10, 'Reaching Into Infinity', 'DragonForce', 'Warner Music Japan', '2017-05-17');
+insert into album values(9, 'Travelogue: Blues Traveler Classics', 'Blues Traveler', 'A&M', '2002-11-12');
+insert into album values(8, 'Toto IV', 'Toto', 'Mobile Fidelity Sound Lab', '1982-04-08');
+insert into album values(7, 'Wolves', 'Rise Against', 'Virgin Records', '2017-06-09');
+insert into album values(6, 'More Than Just a Dream', 'Fitz and the Tantrums', 'Elektra', '2013-05-07');
+insert into album values(5, 'Plastic Beach', 'Gorillaz', 'Parlophone', '2010-03-03');
+insert into album values(4, 'Pinkerton', 'Weezer', 'DGC', '1996-09-24');
+insert into album values(3,'Jailbreak', 'Thin Lizzy', 'Mercury', '1976-03-26');
+insert into album values(2,'The Essential Billy Joel', 'Billy Joel', 'Columbia', '2001-10-02');
+
+insert into ALBUM VALUES (2, 'Born to Die', 'Lana Del Rey', 'Interscope Records', '2012-12-27');
+insert into ALBUM VALUES (3, 'Hooked on a Feeling', 'Blue Swede', 'EMI', '1974-02-10');
+insert into ALBUM VALUES (4, 'If You Leave', 'Daughter', '4AD', '2013-03-18');
+insert into ALBUM VALUES (5, 'Happiness', 'Hurts', 'RCA Records', '2010-08-27');
+insert into ALBUM VALUES (6, 'Beneath the Skin', 'Of Monsters and Men', 'Republic Records', '2015-06-05');
+insert into ALBUM VALUES (7, 'Folk Hop N' Roll', 'Judah & the Lion', 'Republic Records', '2016-03-04');
+insert into ALBUM VALUES (8, 'Badlands', 'Halsey', 'Astralwerks', '2015-06-28');
+insert into ALBUM VALUES (9, 'Ceremonials', 'Florence + The Machines', 'Island Records', '2011-10-28');
+insert into ALBUM VALUES (10, 'Down the Way', 'Angus & Julia Stone', 'Nettwerk', '2010-03-12');
+insert into ALBUM VALUES (14, 'Studio Killers', 'Studio Killers', 'Studio Killers Records', '2013-06-03');
+
+INSERT INTO album (id, title, artist, label, released) VALUES (2, 'Ultraviolence' , 'Lana Del Rey' , 'Polydore' , '2014-06-13');
+INSERT INTO album (id, title, artist, label, released) VALUES (3, 'Saturation' , 'Brockhampton' , 'EMPIRE' , '2017-06-09');
+INSERT INTO album (id, title, artist, label, released) VALUES (4, 'Rumours' , 'Fleetwood Mac' , 'Warner Bros.' , '1977-02-04');
+INSERT INTO album (id, title, artist, label, released) VALUES (5, 'Wiped Out!' , 'The Neighbourhood' , 'Columbia' , '2015-10-30');
+INSERT INTO album (id, title, artist, label, released) VALUES (6, 'Coloring Book' , 'Chance The Rapper' , null, '2016-05-13');
+INSERT INTO album (id, title, artist, label, released) VALUES (7, 'Ctrl' , 'SZA' , 'Top Dawg' , '2017-06-09');
+INSERT INTO album (id, title, artist, label, released) VALUES (8, 'American Boyfriend' , 'Kevin Abstract' , 'Brockhampton Records' , '2016-11-18');
+INSERT INTO album (id, title, artist, label, released) VALUES (9, 'Torches' , 'Foster the People' , 'Columbia' , '2011-05-23');
+INSERT INTO album (id, title, artist, label, released) VALUES (10, 'Port of Morrow' , 'The Shins' , 'Aural Apothecary' , '2012-03-19');
+
+insert into album values(2,'Avenged Sevenfold','Avenged Sevenfold','Warner Bros.','2007-10-30');
+insert into album values(3,'Immortalized','Disturbed','Reprise','2015-08-21');
+insert into album values(4,'Come Clean','Puddle of Mudd','Interscope','2001-08-28');
+insert into album values(5,'Toxicity','System of a Down','American Recordings','2001-08-27');
+insert into album values(6,'Black out the Sun','Sevendust','7Bros.','2013-03-26');
+insert into album values(7,'Metallica','Metallica','Elektra','1991-08-12');
+insert into album values(8,'Vessels','Starset','Razor & Tie','2017-01-20');
+insert into album values(9,'10,000 days','tool','Volcano Entertainment','2006-04-28');
+insert into album values(10,'Awaken the Fire','Like a Storm','Century Media','2015-02-24');
+insert into album values(14,'Ungrateful','Escape the Fate','Eleven Seven','2013-05-14');

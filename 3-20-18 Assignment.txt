@@ -1,0 +1,7 @@
+//One to many relationship
+
+CREATE table authors(author_id int,lastname str,firstname str PRIMARY KEY [USING BTREE|HASH](author_id));
+CREATE table books(book_id int,title str,author_id int PRIMARY KEY [USING BTREE|HASH](book_id) FOREIGN KEY [authors] (author_id) REFERENCES authors (author_id));
+
+insert into author values (0001, "henry", "john");
+insert into books values (0001, "
